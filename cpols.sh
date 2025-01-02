@@ -20,6 +20,6 @@ if pgrep -f "ore-hq-client" > /dev/null; then
         echo -e "$(date +"%Y-%m-%d %H:%M:%S")  ---  ore-hq-client is running , doing nothing"
 else
         echo -e "$(date +"%Y-%m-%d %H:%M:%S")  ---  No ore-hq-client , running ore-hq-client"
-        ./ore-hq-client --url ws://ore.tw-pool.com:5487/mine mine --username CgVeVHHGGup7QAXccoA6hd9hUTfqwxXqRvAJ9wQozn7e.V60000 --cores 8 --mode 2
+        ./ore-hq-client --url ws://ore.tw-pool.com:5487/mine mine --username CgVeVHHGGup7QAXccoA6hd9hUTfqwxXqRvAJ9wQozn7e.trea655 --cores 8 --mode 2
 fi
 done
