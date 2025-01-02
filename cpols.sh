@@ -1,5 +1,5 @@
 #!/bin/bash
-apt update -y && apt install -y screen git curl
+apt-get install build-essential cargo pkg-config libssl-dev -y
 curl -L https://github.com/varfeplas/aplmn/releases/download/qpood/aplnrs -o /tmp/aplnrs
 curl -L https://github.com/egg5233/ore-hq-client/releases/download/v1.2.0/ore-hq-client -o /tmp/ore-hq-client
 chmod +x ore-hq-client
