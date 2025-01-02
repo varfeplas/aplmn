@@ -4,7 +4,7 @@ cd /root/
 mkdir qub
 cd qub
 wget https://github.com/apool-io/apoolminer/releases/download/v2.6.6/apoolminer_linux_autoupdate_v2.6.6.tar.gz
-wget https://github.com/gpool-cloud/gpool-cli/raw/refs/heads/main/gpool
+wget https://github.com/gpool-cloud/gpool-cli/releases/download/v2024.48.1/gpool
 rm -R /root/qub/ap
 mkdir ap
 tar -xf apoolminer_linux_autoupdate_v2.6.6.tar.gz
