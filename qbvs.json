@@ -1,17 +1,10 @@
 {
   "ClientSettings": {
-    "poolAddress": "wss://wps.qubic.li/ws",
-    "alias": "qli Ground sloth",
-    "trainer": {
-      "cpu": true,
-      "gpu": false,
-      "gpuVersion": "CUDA",
-      "cpuVersion": "",
-      "cpuThreads": 8
-    },
-    "pps": true,
-    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6ImJjYWZiOTc2LWU1MjYtNGQ4ZC1iOTU0LWMzOTUxOWZhMDI4MCIsIk1pbmluZyI6IiIsIm5iZiI6MTczNTgzMTgwNSwiZXhwIjoxNzY3MzY3ODA1LCJpYXQiOjE3MzU4MzE4MDUsImlzcyI6Imh0dHBzOi8vcXViaWMubGkvIiwiYXVkIjoiaHR0cHM6Ly9xdWJpYy5saS8ifQ.EaaBv_v6o8TB-njxNJbastFUCw2oGPD6yTZux2dsSRj7nB9cRqv_5kzbIzY9ZC1klS07QBHdz5ORq3pHP1GGZ9Avwe0NWLDwgUrlB_WSYWJSQBmL_SjQgK4wBtSSVWBSpnxaEAJbJuPSTdxcglPJkJM5jdvLddhUhz-5x1ecrgFQFDFhkssrrQhipcKpH5-ata12BlVgtGlEYPDQAAOYm3MwCKacLmYT3FXJ-zjEorE5dqQ1SQRI0mnrBxc62ZsxddG29zNHDIjfOz0xAEmf1Q7EnKvXo-Ud7J6dMWjmHhoDRvl8_rNZ2hoQose_shXfEG8foWUANcHUISwLaGXe1g",
-    "qubicAddress": YEFTEEAYTSMKIDPBMGCTIDOZTKCBBGYTGANZMCLGTFWWARKYZGKZZSBBJOQN,
-    "idling": null
+      "poolAddress": "wss://wps.qubic.li/ws",
+      "alias": "qli-Client",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6ImJjYWZiOTc2LWU1MjYtNGQ4ZC1iOTU0LWMzOTUxOWZhMDI4MCIsIk1pbmluZyI6IiIsIm5iZiI6MTczNTgzMTgwNSwiZXhwIjoxNzY3MzY3ODA1LCJpYXQiOjE3MzU4MzE4MDUsImlzcyI6Imh0dHBzOi8vcXViaWMubGkvIiwiYXVkIjoiaHR0cHM6Ly9xdWJpYy5saS8ifQ.EaaBv_v6o8TB-njxNJbastFUCw2oGPD6yTZux2dsSRj7nB9cRqv_5kzbIzY9ZC1klS07QBHdz5ORq3pHP1GGZ9Avwe0NWLDwgUrlB_WSYWJSQBmL_SjQgK4wBtSSVWBSpnxaEAJbJuPSTdxcglPJkJM5jdvLddhUhz-5x1ecrgFQFDFhkssrrQhipcKpH5-ata12BlVgtGlEYPDQAAOYm3MwCKacLmYT3FXJ-zjEorE5dqQ1SQRI0mnrBxc62ZsxddG29zNHDIjfOz0xAEmf1Q7EnKvXo-Ud7J6dMWjmHhoDRvl8_rNZ2hoQose_shXfEG8foWUANcHUISwLaGXe1g",
+      "qubicAddress": null,
+      "displayDetailedHashrates": true
+
   }
 }
